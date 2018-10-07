@@ -1,0 +1,9 @@
+[submodule "rev1/pcb/kicad-CPG151101S11"]
+	path = rev1/pcb/kicad-CPG151101S11
+	url = git@github.com:yskoht/kicad-CPG151101S11.git
+[submodule "rev1/pcb/kicad-MJ-4PP-9"]
+	path = rev1/pcb/kicad-MJ-4PP-9
+	url = git@github.com:yskoht/kicad-MJ-4PP-9.git
+[submodule "rev1/pcb/ProMicroKiCad"]
+	path = rev1/pcb/ProMicroKiCad
+	url = https://github.com/Biacco42/ProMicroKiCad.git
