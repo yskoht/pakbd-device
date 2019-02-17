@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MJ-4PP-9)(type Legacy)(uri ${KIPRJMOD}/../kicad-MJ-4PP-9/MJ-4PP-9-symbol/MJ-4PP-9.lib)(options "")(descr ""))
+  (lib (name ProMicro)(type Legacy)(uri ${KIPRJMOD}/../kicad-ProMicro/ProMicro-symbol/ProMicro.lib)(options "")(descr ""))
+)

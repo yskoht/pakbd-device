@@ -7,3 +7,18 @@
 [submodule "rev1/pcb/ProMicroKiCad"]
 	path = rev1/pcb/ProMicroKiCad
 	url = https://github.com/Biacco42/ProMicroKiCad.git
+[submodule "rev2/pcb/pakbd/kicad-ProMicro"]
+	path = rev2/pcb/pakbd/kicad-ProMicro
+	url = https://github.com/yskoht/kicad-ProMicro.git
+[submodule "rev2/pcb/kicad-ProMicro"]
+	path = rev2/pcb/kicad-ProMicro
+	url = https://github.com/yskoht/kicad-ProMicro.git
+[submodule "rev2/pcb/kicad-MJ-4PP-9"]
+	path = rev2/pcb/kicad-MJ-4PP-9
+	url = https://github.com/yskoht/kicad-MJ-4PP-9.git
+[submodule "rev2/pcb/kicad-CPG151101S11"]
+	path = rev2/pcb/kicad-CPG151101S11
+	url = https://github.com/yskoht/kicad-CPG151101S11.git
+[submodule "rev2/pcb/kicad-footprints"]
+	path = rev2/pcb/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git

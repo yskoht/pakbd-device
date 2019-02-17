@@ -1,0 +1,32 @@
+Drill report for J:\DIY\pakbd_device\rev2\pcb\pakbd\pakbd.kicad_pcb
+Created on 2019/02/16 22:06:05
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'pakbd-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (152 holes)
+    T2  0.76mm  0.030"  (24 holes)
+    T3  0.81mm  0.032"  (4 holes)
+    T4  1.00mm  0.039"  (8 holes)  (with 8 slots)
+
+    Total plated holes count 188
+
+
+Drill file 'pakbd-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.00mm  0.039"  (10 holes)  (with 10 slots)
+    T2  1.20mm  0.047"  (4 holes)
+    T3  1.80mm  0.071"  (94 holes)
+    T4  2.20mm  0.087"  (11 holes)
+    T5  3.00mm  0.118"  (94 holes)
+    T6  3.05mm  0.120"  (6 holes)
+    T7  4.00mm  0.157"  (53 holes)
+
+    Total unplated holes count 272
