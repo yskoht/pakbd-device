@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
    viewBox="0 0 384 384"
    height="384mm"
-   width="384mm">
+   width="384mm"
+   sodipodi:docname="pakbd-rev3-bottom-middle.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2767"
+     inkscape:window-height="1215"
+     id="namedview79"
+     showgrid="false"
+     inkscape:zoom="0.91985262"
+     inkscape:cx="733.27562"
+     inkscape:cy="1364.7855"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
   <defs
      id="defs2" />
   <metadata
@@ -20,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,21 +101,9 @@
      style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path20597" />
   <path
-     id="path20595"
-     d="M 129.26657,96.065587 V 108.68835"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="path20593"
-     d="M 87.573261,108.68935 V 96.070247"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="path20591"
-     d="M 129.26119,108.68606 H 87.577019"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
      id="path31532-8"
-     d="M 87.573819,96.070477 H 129.26656"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 87.573819,96.070477 h 41.692741 m -0.005,12.615583 H 87.577019 m -0.0038,0.003 V 96.070247 m 41.693309,-0.0047 v 12.622763" />
   <path
      d="m 18.787321,17.698647 h 2.638444 m 0.0045,30.65171 V 17.699067 M 18.7877,48.350447 v -30.65279 m -5.83e-4,30.64876 h 2.638444"
      style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -297,37 +309,13 @@
      style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path26612-0" />
   <path
-     id="path20561"
-     d="m 356.7392,70.496747 h 14.41932"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.09999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     d="m 356.73926,49.675747 h 14.41521"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path20559" />
-  <path
-     id="path20557"
-     d="M 356.74942,70.484497 V 49.676177"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.09999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
      id="path30746-8-0-7-5-3-1-2"
-     d="M 371.15942,70.484527 V 49.677317"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="path20561-4"
-     d="m 18.776035,70.496797 h 14.41932"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.09999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     d="m 18.776095,49.675677 h 14.41521"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path20559-7" />
-  <path
-     id="path20557-6"
-     d="M 18.786255,70.484447 V 49.676127"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.09999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 371.15942,70.484527 v -20.80721 m -14.41,20.80718 v -20.80832 m -0.0102,-4.3e-4 h 14.41521 m -14.41527,20.821 h 14.41932" />
   <path
      id="path30746-8-0-7-5-3-1-2-3"
-     d="M 33.196255,70.484447 V 49.677237"
-     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 33.196255,70.484447 v -20.80721 m -14.41,20.80721 v -20.80832 m -0.01016,-4.5e-4 h 14.41521 m -14.41527,20.82112 h 14.41932" />
   <path
      d="m 181.92383,19.870477 v 11.97418 m 10e-4,0.002 H 351.137 M 181.92383,19.870477 H 351.205 m -4.5e-4,-0.007 v 11.96169"
      style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.10000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
